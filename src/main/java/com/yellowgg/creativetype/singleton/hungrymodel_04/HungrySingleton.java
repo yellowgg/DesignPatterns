@@ -1,4 +1,4 @@
-package com.yellowgg.creativetype.singleton.hungrymode_04;
+package com.yellowgg.creativetype.singleton.hungrymodel_04;
 
 import java.util.Date;
 

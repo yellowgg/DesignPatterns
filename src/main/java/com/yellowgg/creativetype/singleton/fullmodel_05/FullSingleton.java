@@ -1,4 +1,4 @@
-package com.yellowgg.creativetype.singleton.fullmode_05;
+package com.yellowgg.creativetype.singleton.fullmodel_05;
 
 /**
  * @Description: 饱汉模式-双重检测锁

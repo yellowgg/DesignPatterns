@@ -1,4 +1,4 @@
-package com.yellowgg.creativetype.singleton.nestedmode_06;
+package com.yellowgg.creativetype.singleton.nestedmodel_06;
 
 /**
  * @Description: 嵌套类单例模式
