@@ -1,4 +1,4 @@
-package com.yellowgg.structuraltype_02.adapter_06.classadapter_12.voltge;
+package com.yellowgg.structuraltype_02.adapter_06.classadaptermodel_12.voltge;
 
 
 /**

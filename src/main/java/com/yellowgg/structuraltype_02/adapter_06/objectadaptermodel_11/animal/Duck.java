@@ -1,4 +1,4 @@
-package com.yellowgg.structuraltype_02.adapter_06.objectadapter_11.animal;
+package com.yellowgg.structuraltype_02.adapter_06.objectadaptermodel_11.animal;
 
 /**
  * @Description: 鸭子

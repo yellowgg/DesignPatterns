@@ -1,7 +1,7 @@
-package com.yellowgg.structuraltype_02.adapter_06.classadapter_12.run;
+package com.yellowgg.structuraltype_02.adapter_06.classadaptermodel_12.run;
 
-import com.yellowgg.structuraltype_02.adapter_06.classadapter_12.phone.Phone;
-import com.yellowgg.structuraltype_02.adapter_06.classadapter_12.voltge.VoltageAdapter;
+import com.yellowgg.structuraltype_02.adapter_06.classadaptermodel_12.phone.Phone;
+import com.yellowgg.structuraltype_02.adapter_06.classadaptermodel_12.voltge.VoltageAdapter;
 
 /**
  * @Description: 运行

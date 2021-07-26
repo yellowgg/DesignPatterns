@@ -1,6 +1,6 @@
-package com.yellowgg.structuraltype_02.adapter_06.classadapter_12.phone;
+package com.yellowgg.structuraltype_02.adapter_06.classadaptermodel_12.phone;
 
-import com.yellowgg.structuraltype_02.adapter_06.classadapter_12.voltge.IVoltage5V;
+import com.yellowgg.structuraltype_02.adapter_06.classadaptermodel_12.voltge.IVoltage5V;
 
 /**
  * @Description: 手机

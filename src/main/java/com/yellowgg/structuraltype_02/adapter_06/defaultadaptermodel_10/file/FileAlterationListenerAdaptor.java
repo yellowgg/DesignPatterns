@@ -1,4 +1,4 @@
-package com.yellowgg.structuraltype_02.adapter_06.defaultadapter_10.file;
+package com.yellowgg.structuraltype_02.adapter_06.defaultadaptermodel_10.file;
 
 import java.io.File;
 
